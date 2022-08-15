@@ -189,25 +189,25 @@
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message1",
-            "receivedMessage": "This is a test received message1",
+            "receivedMessage": "This is a test received message1"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message2",
-            "receivedMessage": "This is a test received message2",
+            "receivedMessage": "This is a test received message2"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message3",
-            "receivedMessage": "This is a test received message3",
+            "receivedMessage": "This is a test received message3"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message4",
-            "receivedMessage": "This is a test received message4",
+            "receivedMessage": "This is a test received message4"
           }
         ]
       },
@@ -218,25 +218,25 @@
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message1",
-            "receivedMessage": "This is a test received message1",
+            "receivedMessage": "This is a test received message1"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message2",
-            "receivedMessage": "This is a test received message2",
+            "receivedMessage": "This is a test received message2"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message3",
-            "receivedMessage": "This is a test received message3",
+            "receivedMessage": "This is a test received message3"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message4",
-            "receivedMessage": "This is a test received message4",
+            "receivedMessage": "This is a test received message4"
           }
         ]
       },
@@ -247,25 +247,25 @@
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message1",
-            "receivedMessage": "This is a test received message1",
+            "receivedMessage": "This is a test received message1"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message2",
-            "receivedMessage": "This is a test received message2",
+            "receivedMessage": "This is a test received message2"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message3",
-            "receivedMessage": "This is a test received message3",
+            "receivedMessage": "This is a test received message3"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message4",
-            "receivedMessage": "This is a test received message4",
+            "receivedMessage": "This is a test received message4"
           }
         ]
       },
@@ -276,25 +276,25 @@
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message1",
-            "receivedMessage": "This is a test received message1",
+            "receivedMessage": "This is a test received message1"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message2",
-            "receivedMessage": "This is a test received message2",
+            "receivedMessage": "This is a test received message2"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message3",
-            "receivedMessage": "This is a test received message3",
+            "receivedMessage": "This is a test received message3"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message4",
-            "receivedMessage": "This is a test received message4",
+            "receivedMessage": "This is a test received message4"
           }
         ]
       },
@@ -305,25 +305,25 @@
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message1",
-            "receivedMessage": "This is a test received message1",
+            "receivedMessage": "This is a test received message1"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message2",
-            "receivedMessage": "This is a test received message2",
+            "receivedMessage": "This is a test received message2"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message3",
-            "receivedMessage": "This is a test received message3",
+            "receivedMessage": "This is a test received message3"
           },
           {
             "senderId":1,
             "receiverId": 33444,
             "sentMessage": "This is a test message4",
-            "receivedMessage": "This is a test received message4",
+            "receivedMessage": "This is a test received message4"
           }
         ]
       }
