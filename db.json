@@ -180,5 +180,152 @@
         "email": "francisperez@unq.com",
         "phone": "+1 (885) 461-3054"
       }
+    ],
+    "userMessages": [
+      {
+        "id": 1,
+        "messages": [
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message1",
+            "receivedMessage": "This is a test received message1",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message2",
+            "receivedMessage": "This is a test received message2",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message3",
+            "receivedMessage": "This is a test received message3",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message4",
+            "receivedMessage": "This is a test received message4",
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "messages": [
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message1",
+            "receivedMessage": "This is a test received message1",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message2",
+            "receivedMessage": "This is a test received message2",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message3",
+            "receivedMessage": "This is a test received message3",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message4",
+            "receivedMessage": "This is a test received message4",
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "messages": [
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message1",
+            "receivedMessage": "This is a test received message1",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message2",
+            "receivedMessage": "This is a test received message2",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message3",
+            "receivedMessage": "This is a test received message3",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message4",
+            "receivedMessage": "This is a test received message4",
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "messages": [
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message1",
+            "receivedMessage": "This is a test received message1",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message2",
+            "receivedMessage": "This is a test received message2",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message3",
+            "receivedMessage": "This is a test received message3",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message4",
+            "receivedMessage": "This is a test received message4",
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "messages": [
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message1",
+            "receivedMessage": "This is a test received message1",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message2",
+            "receivedMessage": "This is a test received message2",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message3",
+            "receivedMessage": "This is a test received message3",
+          },
+          {
+            "senderId":1,
+            "receiverId": 33444,
+            "sentMessage": "This is a test message4",
+            "receivedMessage": "This is a test received message4",
+          }
+        ]
+      }
     ]
 }
